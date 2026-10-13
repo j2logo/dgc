@@ -4,7 +4,7 @@
 ![Versión](https://img.shields.io/badge/versión-0.1-blue.svg)
 ![Estado](https://img.shields.io/badge/estado-propuesta-orange.svg)
 
-**DGC es una metodología de desarrollo de software con agentes de IA.** La especificación es la única fuente de verdad y la verificación es independiente de la implementación: las pruebas de aceptación las deciden personas (las escriben o las aprueban) y quedan fuera del alcance del agente que implementa.
+**DGC es una metodología de desarrollo de software con agentes de IA cuyo objetivo es garantizar que el código generado cumple su especificación sin requerir revisión humana.** La especificación es la única fuente de verdad y las pruebas de aceptación, definidas por personas, son inaccesibles al agente implementador.
 
 Dicho de otra forma: el agente estudia el temario (la especificación), pero no conoce las preguntas del examen (las contrapruebas).
 
