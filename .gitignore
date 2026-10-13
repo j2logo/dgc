@@ -1,0 +1,26 @@
+# IDEs y editores
+## JetBrains (IntelliJ IDEA, PyCharm, WebStorm…)
+.idea/
+*.iml
+
+## Visual Studio Code
+.vscode/
+
+## Cursor
+.cursor/
+
+## Eclipse
+.project
+.classpath
+.settings/
+
+## Vim / Emacs
+*.swp
+*.swo
+*~
+\#*\#
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini

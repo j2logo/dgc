@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si usas o citas esta metodología, por favor cítala así."
+title: "Desarrollo Guiado por Contrapruebas (DGC)"
+type: software
+authors:
+  - given-names: "Juanjo"
+    family-names: "Lozano Gómez"
+    alias: "j2logo"
+    website: "https://j2logo.com"
+version: "0.1"
+date-released: "2026-10-13"
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/j2logo/dgc"
+url: "https://j2logo.com/desarrollo-guiado-por-contrapruebas-dgc/"
+abstract: >-
+  Metodología de desarrollo de software con agentes de IA. La especificación
+  es la única fuente de verdad y la verificación es independiente de la
+  implementación: las pruebas de aceptación las deciden personas (las escriben
+  o las aprueban) y quedan fuera del alcance del agente que implementa.
+keywords:
+  - spec-driven development
+  - ai agents
+  - software verification
+  - acceptance testing
+  - methodology
