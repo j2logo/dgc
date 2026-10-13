@@ -50,8 +50,10 @@ El texto canónico está en español.
 DGC es una propuesta abierta y mejora con la experiencia de quien la aplica.
 
 - **¿Lo has probado, o parte de él?** Cuéntalo en una [issue con la plantilla «Lo he probado»](../../issues/new/choose): qué funcionó, qué no y en qué contexto.
-- **¿Dudas, críticas o propuestas?** Abre una [discusión](../../discussions) o una issue.
+- **¿Dudas, críticas o propuestas de cambio?** Abre una [discusión](../../discussions). Los cambios en el método se debaten ahí antes de incorporarse.
 - **¿Has encontrado un precedente que no se cita?** Indícalo con la referencia. Se añadirá a la sección de influencias.
+
+Antes de contribuir, lee [`CONTRIBUTING.md`](CONTRIBUTING.md): explica cómo se decide qué entra en el método y qué tipo de pull requests se aceptan.
 
 ## Cómo citar
 

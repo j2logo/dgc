@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Proponer una idea o un cambio en el método
+    url: https://github.com/j2logo/dgc/discussions/categories/ideas
+    about: Las ideas y los cambios en el método se debaten primero en Discussions.
+  - name: Hacer una pregunta
+    url: https://github.com/j2logo/dgc/discussions/categories/q-a
+    about: Dudas sobre cómo aplicar DGC.
